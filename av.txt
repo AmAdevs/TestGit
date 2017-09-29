@@ -1,3 +1,7 @@
 Hello World
+<<<<<<< HEAD
 Ananchai
 Computer Scienec
+=======
+
+>>>>>>> f548bea2a87de9ee2002910a432026c253fd815d
